@@ -1,29 +1,30 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Zankl Lab
+subtitle: Skeletal Dysplasia Centre
+email: andreas.zankl@sydney.edu.au  
+description: Skeletal Dysplasia Research Group at the University of Sydney
+baseurl: "/skeldys" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Andreas Zankl   
+street_address: The Children's Hospital at Westmead
+city: Sydney
+state: NSW
+zip_code: 2145
+country: Australia
+phone: (02) 9845 3210
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/azankl 
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/pub/andreas-zankl/48/81a/8b7
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/azankl
+email_url: andreas.zankl@sydney.edu.au
 
 # Sass building
 sass:
