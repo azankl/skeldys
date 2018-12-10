@@ -1,24 +1,49 @@
 ---
 layout: page
-title: Research
+title: Skeletal Dysplasia Resarch
 ---
+<p><span class="image left"><img src="assets/images/chondrocyte.jpg" alt="" /></span></p>
+Skeletal dysplasias are rare genetic disorders affecting development and function of the skeleton. Over 400 different skeletal dysplasias are currently recognised. Every aspect of skeletal development can be affected, resulting in a wide variety of symptoms. Bones can fail to form, fail to grow, or be structurally abnormal, resulting in skeletal deformities and fractures.
 
-Skeletal dysplasias (also called bone dysplasias) are single gene disorders affecting development and function of the skeleton. The skeleton forms through a complex process called enchondral ossification, in which skeletal elements are first created as cartilage models (‘Anlagen’) which get subsequently replaced by bone. Over 400 different skeletal dysplasias are currently recognised. Every aspect of skeletal development can be affected, resulting in a wide variety of symptoms. The abnormalities can affect the bone tissue itself or its cartilaginous predecessor. Bones can fail to form, fail to grow, or be structurally abnormal, resulting in skeletal deformities and fractures.
+Typical features of skeletal dysplasias are short stature, early onset arthritis or increased bone fragility.  As the skeleton forms a scaffold around many vital organs, secondary complications, such as breathing difficulties due to an underdeveloped rib cage or neurological damage due to compression of the spinal cord can develop.  
 
-Patients with skeletal dysplasias suffer from short stature, early onset arthritis and increased bone fragility.  As the skeleton forms a scaffold around many vital organs, secondary complications, such as respiratory distress due to an underdeveloped rib cage or neurological damage due to compression of the spinal cord are frequent. The common end point is lifelong disability or even premature death. Patients with skeletal dysplasias present some of the most challenging problems in orthopaedic surgery and medicine in general.
-
-While their severity and disabling nature makes skeletal dysplasias worthy of our attention in their own right, they also serve as models for more common musculoskeletal conditions, such as osteoporosis and osteoarthritis. A lot of our understanding of the pathogenetic mechanisms underlying these common disorders has come from studying the genetic defects and altered pathophysiology in patients with skeletal dysplasias.
+While worthy of our attention in their own right, skeletal dysplasias also serve as models for more common musculoskeletal conditions, such as osteoporosis and osteoarthritis. Skeletal dysplasias allow us to the study the effect of changes in single genes on skeletal development. A lot of our understanding of skeletal biology and the pathogenetic mechanisms that lead to osteoarthritis and osteoporosis has come from studying the genetic defects and altered pathophysiology in patients with these rare disorders.
 
 # Areas of Research
 
-## Clinical Research
-Through our skeletal dysplasia clinic and our large network of international collaborators, we  identify patients with rare skeletal dysplasias, study their clinical characteristics and natural history, evaluate new treatments and perform clinical trials.
- 
-## Molecular Genetics and Genomics
-We apply Whole Genome Sequencing and other high-throughput -omics technologies to identify genetic variants and novel genes involved in skeletal dysplasias and study their role in bone and cartilage biology.
+<div class="row">
+	<div class="4u 12u$(medium)">
+			<a href="#" class="image fit"><img src="assets/images/MRI.png" alt="" /></a>
+			<h3>Clinical Research</h3>
+			<p>We study the clinical and radiographic characteristics of skeletal dysplasias, establish genotype-phenotype correlations, evaluate new treatments and perform clinical trials.</p>
+ 	</div>
+		<div class="4u 12u$(medium)">
+			<a href="#" class="image fit"><img src="assets/images/Genomics.jpg" alt="" /></a>
+			<h3>Molecular Genetics and Genomics</h3>
+			<p>We apply Whole Genome Sequencing and other high-throughput -omics technologies to identify genetic variants and novel genes involved in skeletal dysplasias and study their role in bone and cartilage biology.</p>
+		</div>		
+	<div class="4u 12u$(medium)">
+				<a href="#" class="image fit"><img src="assets/images/bioinformatics.png" alt="" /></a>
+				<h3>Bioinformatics</h3>
+				<p>We integrate clinical, genetic and molecular data to obtain a systems level view of skeletal biology. A particular focus is Phenomics, the computational processing of clinical (phenotype) data.</p>
+	</div>
+</div>
 
-## Bioinformatics
-We are interested in the large scale integration of clinical, genetic and molecular data sets to obtain a systems level view of bone and cartilage biology. A particular focus is Phenomics, the systematic and large scale analysis of clinical (phenotype) data. While bioinformatic methods for the processing of large biological datasets exist, the computational processing of clinical data is still in its infancy. The wide variability of clinical descriptions makes this a challenging area. We apply natural language processing (NLP) to extract data from medical records and the medical literature and use ontologies 
-and other knowledge engineering techniques to integrate this data with other biological datasets. 
+### We can accommodate students with medical, science or computational backgrounds interested in obtaining an Honours, Masters or PhD degree. Please [contact us](mailto:andreas.zankl@sydney.edu.au).
+
+<!--  
+
+# Projects (use Posts)
+
+GrowthShare
+Palovarotene
+MCTO
+OHMR
+Bone Dysplasia Ontology
+Biolark-CR/Patient Archive
+Textmining EMR
+
+-->
+
 
 
